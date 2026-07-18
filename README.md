@@ -18,3 +18,12 @@ This tool references US government and authoritative datasets for accurate, tran
 
 [https://bytepane.com/](https://bytepane.com/)
 
+
+## Try the Calculators
+
+Free, no-signup developer tools that use the data sources documented here:
+
+- [JSON Formatter](https://bytepane.com/json-formatter/)
+- [CSS Formatter](https://bytepane.com/css-formatter/)
+- [Case Converter](https://bytepane.com/case-converter/)
+
